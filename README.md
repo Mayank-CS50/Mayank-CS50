@@ -2,11 +2,59 @@
 
 # Hi, I'm Mayank Gaur 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=650&lines=CSE+(AI+%26+ML)+Undergrad;Robotics+%26+Embedded+Systems+Dev;Competitive+Programmer;Full-Stack+Developer" alt="Typing SVG" />
-</a>
+</div>
 
-<br/>
+<table align="center">
+<tr>
+<td valign="middle" align="center">
+<pre>
+                                 .::....                      
+                              .::::::..:---                   
+                            .....:......::--.                 
+                           ....::-==-:-==---=                 
+                           ...-=++****#%%%#+==                
+                           ..:==-==+*########*                
+                         .-.:===----==++==+*#-                
+                         =*--+**+++==++=--=**                 
+                         ++-=+***++++*#***+*-                 
+                         ++-==========+***#%                  
+                          .-===--++*++++++#*                  
+                           ---===++*##*==+#                   
+                           -:::--=++++****                    
+                        ..:=-:...:::-=++=                     
+                      -*:.====-::...:=:                       
+                    -*#%:.=========+*#=                       
+              -*####%#*#*--=+++==++**==*=                     
+         =*#%%#%#=*++=-+###++++==++++-=###+                   
+      -*#%#######=#++++*#%%##%#****+*####***=                 
+     -*#%%%#*####*##****%%##**%@@@@@@@%%%%#**+==-             
+     +*#####%##%%##%%*+*%##%@@@@@@@@@@@#%%##*--==+*=          
+   .:**###%%########%#=#%#%#@@@@@@@@@@@*%%***-++=+*+**        
+   ::*#####%%%##**##%#=#%%%#@@%@%%%%%%@###**+-+*+=+++**       
+   :-######%%%*%+#%%##+###%%%@+=+#*###@@#%%##+-*+-+++*#*      
+  :-**###%%%%%#*+#%%##+*%%%%%%=.=*+++=**+#%%%#-++-+++*+*-     
+  =+**#%###%%%%*=#%###**%%%%%%#+=-++==-==*%%%%+*+=+++++*=-    
+  +****######%%#+*####++%%%#=*@#%#***==+=+%%%#*#==+**+*+=*-   
+  +#***#*#######***###++#%%#+#@**-=##=*#==%%%*+*=-**+++==++   
+</pre>
+</td>
+<td valign="middle">
+
+<h3>Hey, I'm Mayank &#128075;</h3>
+<p><b>CSE (AI &amp; ML)</b> undergrad who likes building things that move and things that ship &mdash; from autonomous robots to full-stack apps.</p>
+<ul>
+<li>&#129302; <b>Robotics &amp; Embedded Systems Dev</b> &mdash; Autonomous Domain Lead @ Grobots</li>
+<li>&#129513; <b>Competitive Programmer</b> &mdash; LeetCode &middot; Codeforces &middot; CodeChef</li>
+<li>&#127760; <b>Full-Stack Developer</b> &mdash; Next.js &middot; FastAPI &middot; Supabase</li>
+<li>&#128205; Lucknow, India</li>
+</ul>
+<p>&#9889; Currently building voice-AI + robotics projects. Always up for a hard problem.</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-cs50)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankgaur13004@gmail.com)
