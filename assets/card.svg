@@ -1,42 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="968" height="458" viewBox="0 0 968 458" font-family="'Cascadia Code','JetBrains Mono','Consolas',ui-monospace,monospace" font-size="15">
-<rect x="1" y="1" width="966" height="456" rx="12" fill="#1a1b27" stroke="#2a2e42"/>
-<text x="22.0" y="36.4" fill="#8b91b4" xml:space="preserve">                        @#*****###              </text>
-<text x="22.0" y="54.4" fill="#8b91b4" xml:space="preserve">                      #**#**###@##*+*           </text>
-<text x="22.0" y="72.4" fill="#8b91b4" xml:space="preserve">                   @###@#*@@@##@@@##*+*         </text>
-<text x="22.0" y="90.4" fill="#8b91b4" xml:space="preserve">                  ##@@@@@#@@@@@@@#*@@**+#       </text>
-<text x="22.0" y="108.4" fill="#8b91b4" xml:space="preserve">                 ##@@#*##++++*##*+++*@@***      </text>
-<text x="22.0" y="126.4" fill="#8b91b4" xml:space="preserve">                @@@@#:..........    .:+**+      </text>
-<text x="22.0" y="144.4" fill="#8b91b4" xml:space="preserve">                @@@#+......            ..*#     </text>
-<text x="22.0" y="162.4" fill="#8b91b4" xml:space="preserve">                @@#+::.::::::.           +@     </text>
-<text x="22.0" y="180.4" fill="#8b91b4" xml:space="preserve">               ++@#:...:+++++:::.::++::. +      </text>
-<text x="22.0" y="198.4" fill="#8b91b4" xml:space="preserve">              :  ++......:::::...:+++::.:::     </text>
-<text x="22.0" y="216.4" fill="#8b91b4" xml:space="preserve">              ...+:..     .....  ..::::.:+      </text>
-<text x="22.0" y="234.4" fill="#8b91b4" xml:space="preserve">              ...:...   ......       .  :       </text>
-<text x="22.0" y="252.4" fill="#8b91b4" xml:space="preserve">              . .::....::..::::::..:.   :       </text>
-<text x="22.0" y="270.4" fill="#8b91b4" xml:space="preserve">                +:....:++..........:.. .        </text>
-<text x="22.0" y="288.4" fill="#8b91b4" xml:space="preserve">                 ::.....:.      .+++.. +        </text>
-<text x="22.0" y="306.4" fill="#8b91b4" xml:space="preserve">                 +:::::.......   .::..:         </text>
-<text x="22.0" y="324.4" fill="#8b91b4" xml:space="preserve">                 :+++++:........ ....           </text>
-<text x="22.0" y="342.4" fill="#8b91b4" xml:space="preserve">                *..+****++::::....:+            </text>
-<text x="22.0" y="360.4" fill="#8b91b4" xml:space="preserve">             .+#+...:+++**####*+::              </text>
-<text x="22.0" y="378.4" fill="#8b91b4" xml:space="preserve">           .  *#:.....:::++*+::. ::             </text>
-<text x="22.0" y="396.4" fill="#8b91b4" xml:space="preserve">        :.    :#:.......::::.....#+.:           </text>
-<text x="22.0" y="414.4" fill="#8b91b4" xml:space="preserve">    :.         ++...............:@*.  .:        </text>
-<text x="22.0" y="432.4" fill="#8b91b4" xml:space="preserve">.               ...............::#+.       .:   </text>
-<text x="459.2" y="63.4" xml:space="preserve"><tspan fill="#7aa2f7">mayank</tspan><tspan fill="#8b91b4">@</tspan><tspan fill="#bb9af7">github</tspan></text>
-<text x="459.2" y="81.4" fill="#414868" xml:space="preserve">──────────────────────────────────────────────</text>
-<text x="459.2" y="99.4" xml:space="preserve"><tspan fill="#e0af68">Education</tspan><tspan fill="#3b4261"> ..</tspan><tspan fill="#9ece6a"> B.Tech CSE (AI &amp; ML), SRMCEM · AKTU</tspan></text>
-<text x="459.2" y="117.4" xml:space="preserve"><tspan fill="#e0af68">CGPA</tspan><tspan fill="#3b4261"> .......</tspan><tspan fill="#9ece6a"> 8.39 / 10   (2024 – 2028)</tspan></text>
-<text x="459.2" y="153.4" xml:space="preserve"><tspan fill="#e0af68">Robotics</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Autonomous Domain Lead @ Grobots</tspan></text>
-<text x="459.2" y="171.4" xml:space="preserve"><tspan fill="#e0af68">Community</tspan><tspan fill="#3b4261"> ..</tspan><tspan fill="#9ece6a"> Technical Lead @ CSI SRMCEM  (300+ mentored)</tspan></text>
-<text x="459.2" y="207.4" xml:space="preserve"><tspan fill="#e0af68">Lang.Code</tspan><tspan fill="#3b4261"> ..</tspan><tspan fill="#9ece6a"> Python, C, C++, JavaScript, TypeScript</tspan></text>
-<text x="459.2" y="225.4" xml:space="preserve"><tspan fill="#e0af68">Lang.Web</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Next.js, FastAPI, Supabase, SQL</tspan></text>
-<text x="459.2" y="243.4" xml:space="preserve"><tspan fill="#e0af68">Robotics.HW</tspan><tspan fill="#3b4261"> .</tspan><tspan fill="#9ece6a"> Arduino, Embedded C, PID, Custom PCB</tspan></text>
-<text x="459.2" y="279.4" xml:space="preserve"><tspan fill="#e0af68">Awards</tspan><tspan fill="#3b4261"> .....</tspan><tspan fill="#9ece6a"> HackMatrix 2.0 (IIT Patna) Winner</tspan></text>
-<text x="560.0" y="297.4" fill="#9ece6a" xml:space="preserve">SynergiX Top 30 · Make4Lucknow 1st Runner-Up</text>
-<text x="459.2" y="333.4" xml:space="preserve"><tspan fill="#e0af68">LinkedIn</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> in/mayank-cs50</tspan></text>
-<text x="459.2" y="351.4" xml:space="preserve"><tspan fill="#e0af68">Email</tspan><tspan fill="#3b4261"> ......</tspan><tspan fill="#9ece6a"> mayankgaur13004@gmail.com</tspan></text>
-<text x="459.2" y="369.4" xml:space="preserve"><tspan fill="#e0af68">LeetCode</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Mayank-Cs50</tspan></text>
-<text x="459.2" y="387.4" xml:space="preserve"><tspan fill="#e0af68">Codeforces</tspan><tspan fill="#3b4261"> .</tspan><tspan fill="#9ece6a"> Mayank-Cs50</tspan></text>
-<text x="459.2" y="405.4" xml:space="preserve"><tspan fill="#e0af68">Location</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Lucknow, India</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1002" height="476" viewBox="0 0 1002 476" font-family="'Cascadia Code','JetBrains Mono','Consolas',ui-monospace,monospace" font-size="15">
+<rect x="1" y="1" width="1000" height="474" rx="12" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="22.0" y="36.4" fill="#8b91b4" xml:space="preserve">                        &amp;#***ooM&amp;                   </text>
+<text x="22.0" y="54.4" fill="#8b91b4" xml:space="preserve">                     *aaoo*#W88MMkdb#               </text>
+<text x="22.0" y="72.4" fill="#8b91b4" xml:space="preserve">                   &amp;WWW&amp;&amp;#8@@@%B%W#hhba             </text>
+<text x="22.0" y="90.4" fill="#8b91b4" xml:space="preserve">                 #&amp;@8B%*8@B8W%@@#W@WW8W#&amp;           </text>
+<text x="22.0" y="108.4" fill="#8b91b4" xml:space="preserve">                *M@@@@@%W88%@@@@Mo8@@@8&amp;ao          </text>
+<text x="22.0" y="126.4" fill="#8b91b4" xml:space="preserve">               &amp;8@@Bh#%dUcJwaaZu}+[r0aMWWb#         </text>
+<text x="22.0" y="144.4" fill="#8b91b4" xml:space="preserve">               &amp;@@Bw?_]l:^^I~!:.    .l?}zMh         </text>
+<text x="22.0" y="162.4" fill="#8b91b4" xml:space="preserve">               %@8&amp;C~?__i:           &#x27;^.:hM         </text>
+<text x="22.0" y="180.4" fill="#8b91b4" xml:space="preserve">               @@#q1}ruczQQx}l`&#x27;&#x27;;_}(1{-,Z%         </text>
+<text x="22.0" y="198.4" fill="#8b91b4" xml:space="preserve">              hh@BC((|C0wwZqQxrrfQphpX|(fYU         </text>
+<text x="22.0" y="216.4" fill="#8b91b4" xml:space="preserve">             Q(.X*}l+{|fxnfj|)[+1z0ddJLt}1m         </text>
+<text x="22.0" y="234.4" fill="#8b91b4" xml:space="preserve">             vl^uQ_;&#x27;..,`^;l+l. `I~{(1}~^x          </text>
+<text x="22.0" y="252.4" fill="#8b91b4" xml:space="preserve">             u+[[J_I    &#x27;i}l!;   `;,&#x27;&#x27;. ^z          </text>
+<text x="22.0" y="270.4" fill="#8b91b4" xml:space="preserve">              &#x27;`|Y{-!,&#x27;:!:;}f|()t):}i   &#x27;m          </text>
+<text x="22.0" y="288.4" fill="#8b91b4" xml:space="preserve">              z_jz({]_}rzj(|rf{()~:~+;`.i           </text>
+<text x="22.0" y="306.4" fill="#8b91b4" xml:space="preserve">                 c)}{??jYzf]~+-?1xUL1!!lt           </text>
+<text x="22.0" y="324.4" fill="#8b91b4" xml:space="preserve">                 Zrf))1?!i!!-}?!^I[f]!i             </text>
+<text x="22.0" y="342.4" fill="#8b91b4" xml:space="preserve">                  COCvvx{+l:;i!:^,!+?1p             </text>
+<text x="22.0" y="360.4" fill="#8b91b4" xml:space="preserve">                  tUh*ohOXr(1r)?__(xZ               </text>
+<text x="22.0" y="378.4" fill="#8b91b4" xml:space="preserve">                 q]+{Yp*W&amp;WMM&amp;#*kmnU                </text>
+<text x="22.0" y="396.4" fill="#8b91b4" xml:space="preserve">              @pu|?~!~[jzLqh#&amp;*mv[`J                </text>
+<text x="22.0" y="414.4" fill="#8b91b4" xml:space="preserve">         @B%%%@w]1_!!li-[(ruzzf+I,^t8WB             </text>
+<text x="22.0" y="432.4" fill="#8b91b4" xml:space="preserve">    @B%8@@B@B@@@m]!!iii~+-][]-iI;,;!p%&amp;8&amp;B@@        </text>
+<text x="22.0" y="450.4" fill="#8b91b4" xml:space="preserve">B8&amp;BBB%B@@%@@@B@@*|Ii_~ll-})1]_l;lI~h%%%%&amp;B@%&amp;%BB   </text>
+<text x="492.8" y="72.4" xml:space="preserve"><tspan fill="#7aa2f7">mayank</tspan><tspan fill="#8b91b4">@</tspan><tspan fill="#bb9af7">github</tspan></text>
+<text x="492.8" y="90.4" fill="#414868" xml:space="preserve">──────────────────────────────────────────────</text>
+<text x="492.8" y="108.4" xml:space="preserve"><tspan fill="#e0af68">Education</tspan><tspan fill="#3b4261"> ..</tspan><tspan fill="#9ece6a"> B.Tech CSE (AI &amp; ML), SRMCEM · AKTU</tspan></text>
+<text x="492.8" y="126.4" xml:space="preserve"><tspan fill="#e0af68">CGPA</tspan><tspan fill="#3b4261"> .......</tspan><tspan fill="#9ece6a"> 8.39 / 10   (2024 – 2028)</tspan></text>
+<text x="492.8" y="162.4" xml:space="preserve"><tspan fill="#e0af68">Robotics</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Autonomous Domain Lead @ Grobots</tspan></text>
+<text x="492.8" y="180.4" xml:space="preserve"><tspan fill="#e0af68">Community</tspan><tspan fill="#3b4261"> ..</tspan><tspan fill="#9ece6a"> Technical Lead @ CSI SRMCEM  (300+ mentored)</tspan></text>
+<text x="492.8" y="216.4" xml:space="preserve"><tspan fill="#e0af68">Lang.Code</tspan><tspan fill="#3b4261"> ..</tspan><tspan fill="#9ece6a"> Python, C, C++, JavaScript, TypeScript</tspan></text>
+<text x="492.8" y="234.4" xml:space="preserve"><tspan fill="#e0af68">Lang.Web</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Next.js, FastAPI, Supabase, SQL</tspan></text>
+<text x="492.8" y="252.4" xml:space="preserve"><tspan fill="#e0af68">Robotics.HW</tspan><tspan fill="#3b4261"> .</tspan><tspan fill="#9ece6a"> Arduino, Embedded C, PID, Custom PCB</tspan></text>
+<text x="492.8" y="288.4" xml:space="preserve"><tspan fill="#e0af68">Awards</tspan><tspan fill="#3b4261"> .....</tspan><tspan fill="#9ece6a"> HackMatrix 2.0 (IIT Patna) Winner</tspan></text>
+<text x="593.6" y="306.4" fill="#9ece6a" xml:space="preserve">SynergiX Top 30 · Make4Lucknow 1st Runner-Up</text>
+<text x="492.8" y="342.4" xml:space="preserve"><tspan fill="#e0af68">LinkedIn</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> in/mayank-cs50</tspan></text>
+<text x="492.8" y="360.4" xml:space="preserve"><tspan fill="#e0af68">Email</tspan><tspan fill="#3b4261"> ......</tspan><tspan fill="#9ece6a"> mayankgaur13004@gmail.com</tspan></text>
+<text x="492.8" y="378.4" xml:space="preserve"><tspan fill="#e0af68">LeetCode</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Mayank-Cs50</tspan></text>
+<text x="492.8" y="396.4" xml:space="preserve"><tspan fill="#e0af68">Codeforces</tspan><tspan fill="#3b4261"> .</tspan><tspan fill="#9ece6a"> Mayank-Cs50</tspan></text>
+<text x="492.8" y="414.4" xml:space="preserve"><tspan fill="#e0af68">Location</tspan><tspan fill="#3b4261"> ...</tspan><tspan fill="#9ece6a"> Lucknow, India</tspan></text>
 </svg>
