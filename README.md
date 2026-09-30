@@ -4,81 +4,9 @@
 
 </div>
 
-<table>
-<tr>
-<td valign="top">
-<pre>
-                                            ......                              
-                                        .::::::...::-:                          
-                                      .::.:........::-=-                        
-                                    .:.....:.......::::--:                      
-                                   .:..:::-==-:...:--:.::-.                     
-                                  ....:=+***#***+*###*+-::-                     
-                                  ....=******###########*=--                    
-                                  ...-=++=====+*##########+=                    
-                                 -..-+*+==-==-==++*+++++*#+.                    
-                               -+#+:+****++++=+++++-::=++*+-                    
-                               +**+=**###****++**#*+=-==**+-                    
-                               ***+=**####*++***###*****#*                      
-                               +#*=+++**+++++==++++*+*##%+                      
-                                --=++++=--++++++++**=+*%%                       
-                                  =+++++++**#####+===+*#                        
-                                  -==+++++*****##*===*##                        
-                                  =-:--==+*******#****+                         
-                                 :++-:.::-===+******+-                          
-                             +=::=+*+=--:.....:-===:                            
-                            *%=.-+***++==--::-==*=                              
-                          *##%+.:+**+++++++++*###*                              
-                   *#####%###%#=:=+****+++***#*#==*+                            
-              +*##%%#**#***=-+##*+=+***+++*****+:-*##*=                         
-         *##%%%%%####=+#+++==*##%@%#***+++****++:+######                        
-      +#%%%###%######+*#+*****#%%%%%@@%##******#%#%#####%#+                     
-     #%##%%%##*######**%******#%###***%@@@@@@@@@@%%%%#####%#+#*=                
-    ####%##%#####%%#%#*#%#****%%##%%%%%@@@@@@@@@@%#%%%%%##*==**##*              
-   *######%%%######%%####%#+*#%%#%%@@@@@@@@@@@@@@@#%%%%#%#++*#**#%##*           
-   #########%%%####%##%##%%*+#%%#%%%@@@@@@%%%%@@@@##%%####+*###+#%##%%          
-   #######%##%%%####*###%%%*+%%%%%%%@@@@@%%%%%%%%@%#%%####+*###*####%%%         
-  +##%%#####%%%%##%#+#%%%%%#+%%%#%%%@@***####%###%@#%%%###*=*###*#####%%        
-  #######%%##%%%%#*#+#%%%%%#+##%#%%%@@+=.+#**##**%@%#%%%%%%+=#%#+####%%%%       
- +#####%%##%%%%%%%**+#%%%%%%+#%%%%%@@%=..-**+*+==+++*%%%%%%*+###+##%%%#%@#      
- ######%%%%%%%%%%%#+=#%%%#%%**%%%%%@%@#+=-:-+++====+=#%%%%%#*##**##%%##@@#*     
- #*############%%%%*+#####%#+*%%%%%###@@@@%#*#+====+=*%%%%%####=######%@%##*    
- *###############%%**#####%#++%%%%%-==@#=**+*#%+++#+++%%%%%*###=#######%%#*#*   
- =#########%%%#%%#%#****##%#++#%%%%###@%##+:+#%==*%==-#%%%*+*##++########*##%   
- +#########%%%%%%%%#*****##*++*##%%%##@#%%#+-=**#*#+#=*%%%*+*#%+=#######*##%%+  
- +##########%%%%%%%%#***##*=++*#%%%%@@@@@@@%#++=++***+=#%%#=+#%+*%%##%#*#%###   
- +########%#####%%%%#+**##+--=*%%%%%@@@@%##@#*#+=====++*%%%*+##+#%##%###%####   
- *#######%%%#######%#+*##*----+%%%%@@@@#++***+*###****+=*%%#+#*#%######%###%#   
- *#######%%%%%%%####*+****-----#%%%@@@@%#*++**%@@%%%%%*=-*%*-**######%##*#%%@   
- *#######%%%%%%######+===:.:::-#%%##%@@@@%%%#%%@%%%##+===++=:--=*#####*##%%%@#  
- *########%%%########%#**+=::--*##%%%%%%%##***+==========+**+-:.-*##########%@  
- *******##########%%%%##%%#=====================++++++**+=+#*+=:.-#######%###@# 
- **#******####%%#%%%%%%##*++++++++====+++++++++++********+=+#*+-:-###%%%%%%%%%@ 
-</pre>
-</td>
-<td valign="center">
-
-**CSE (AI &amp; ML) undergrad** &mdash; building things that move and things that ship: autonomous robots to full-stack apps.
-
-🤖 Robotics &amp; Embedded Dev &nbsp;&middot;&nbsp; 🧩 Competitive Programmer &nbsp;&middot;&nbsp; 🌐 Full-Stack Developer &nbsp;&middot;&nbsp; 📍 Lucknow, India
-
-- 🎓 **B.Tech CSE (AI &amp; ML)** @ SRMCEM, AKTU &mdash; CGPA **8.39/10** (2024&ndash;2028)
-- 🤖 **Autonomous Domain Lead** @ Grobots Robotics Club &mdash; national LFR/maze podiums
-- 🧑‍🏫 **Technical Lead** @ CSI SRMCEM &mdash; mentored 300+ in dev &amp; CP
-- 🏆 **HackMatrix 2.0 (IIT Patna) Winner** &middot; SynergiX Top 30/2000+
-
-<a href="https://linkedin.com/in/mayank-cs50"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mayankgaur13004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Mayank-Cs50/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codeforces.com/profile/Mayank-Cs50"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/chizuruwu"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/mayankgaur13004"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=Mayank-CS50&label=Profile%20Views&color=bb9af7&style=flat"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/card.svg" alt="mayank@github profile card" width="900" />
+</div>
 
 ---
 
